@@ -1,0 +1,14 @@
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\bin\Debug\net6.0\ConAppJenProj2.exe
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\bin\Debug\net6.0\ConAppJenProj2.deps.json
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\bin\Debug\net6.0\ConAppJenProj2.runtimeconfig.json
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\bin\Debug\net6.0\ConAppJenProj2.dll
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\bin\Debug\net6.0\ConAppJenProj2.pdb
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.AssemblyInfoInputs.cache
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.AssemblyInfo.cs
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.csproj.CoreCompileInputs.cache
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.dll
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\refint\ConAppJenProj2.dll
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.pdb
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ConAppJenProj2.genruntimeconfig.cache
+C:\Users\anves\source\repos\ConAppJenProj2\ConAppJenProj2\obj\Debug\net6.0\ref\ConAppJenProj2.dll
